@@ -7,6 +7,7 @@ It will take roughly 45min if you haven't done any of the prep work. I like to s
 Serves 4 to 6
 
 Ingredients:
+
 * 1/4 cup olive oil
 * 5 Anaheim chiles or 3 jalapeños, stemmed, seeded, and finely chopped (I was nervous and only used 2 Anaheims; I would go for 3 or 4 next time for a more moderate but still gentle kick)
 * 1 small yellow onion, chopped

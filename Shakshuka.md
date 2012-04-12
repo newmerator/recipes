@@ -1,6 +1,6 @@
 #### Shaksuka Recipe (Israeli comfort food)
 
-Shakshuka reminds is incredible. It's the best way to poach eggs that I can think of and it's an easy dish to share.
+[Shakshuka](http://smittenkitchen.com/2010/04/shakshuka/) reminds is incredible. It's the best way to poach eggs that I can think of and it's an easy dish to share.
 
 It will take roughly 45min if you haven't done any of the prep work. I like to substitute cilantro for the parsley, and I add more cumin that it calls for.
 

@@ -1,0 +1,59 @@
+### OS File Exclusion
+
+## OSX Exclusion
+
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+## Windows Exclusion
+
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
+
+## Linux Exclusion
+
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
+
+### Editor Exclusion
+
+## Emacs Exclusion
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+## Vim Exclusion
+
+.*.sw[a-z]
+*.un~
+Session.vim
+
+## TextMate Exclusion
+
+*.tmproj
+*.tmproject
+tmtags
+
+## SublimeText Exclusion
+
+# SublimeText project files
+/*.sublime-project

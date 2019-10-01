@@ -7,19 +7,19 @@ A few simple ingredients come together in an unexpected way to create a delicate
 ### For vinaigrette
 
  - 2 tablespoons Champagne vinegar
- - 2 tablespoon mild honey
- - 2 tablespoon fresh lemon juice
+ - 2 tablespoons mild honey
+ - 2 tablespoons fresh lemon juice
  - 1/4 teaspoon salt
  - 1/4 teaspoon coarsely ground black pepper
  - 6 tablespoons olive oil
 
 ### For salad
 
- - 4 oz thinly sliced pancetta (7 to 9 slices)
- - 2 tablespoon olive oil
+ - 4 Oz thinly sliced pancetta (7 to 9 slices)
+ - 2 tablespoons olive oil
  - 4 firm-ripe pears
  - 8 cups baby arugula or torn larger arugula (2 1/2 lb)
- - 6 oz ricotta salata, thinly shaved with a vegetable peeler
+ - 6 Oz ricotta salata, thinly shaved with a vegetable peeler
 
 ## Preparation
 
